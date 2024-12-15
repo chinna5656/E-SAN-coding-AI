@@ -13,5 +13,5 @@
 <a href="https://youtube.com/shorts/Z7Sfl7z_BWI?feature=share">
   <img src="https://img.youtube.com/shorts/vi/Z7Sfl7z_BWI?feature=share/0.jpg" width="800" />
 </a>
-https://youtube.com/shorts/Z7Sfl7z_BWI?feature=share
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7Sfl7z_BWI" title="YouTube Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
