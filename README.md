@@ -14,6 +14,8 @@
 
 > **Note:** In case of unavailable link or unable to render code block, you can **reload** the page or use **[NBViewer](https://nbviewer.jupyter.org/)** to view the file.
 
-[![AI for Detecting Code Plagiarism](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" width="800" />
+</a>
+
 
