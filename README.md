@@ -13,3 +13,5 @@
 | 6     | AI for Arresting Criminals                    | YOLO DETECTION / FACE RECOGNITION           | **[LECTURE6](https://github.com/chinna5656/E-SAN-coding-AI/blob/main/Yolo%20Detection.ipynb)**   |
 
 > **Note:** In case of unavailable link or unable to render code block, you can **reload** the page or use **[NBViewer](https://nbviewer.jupyter.org/)** to view the file.
+
+[![Watch the video](http://img.youtube.com/vi/ZdS7RndVHXA/0.jpg)]([https://youtu.be/ZdS7RndVHXA](https://youtu.be/i8vDcBKzh6o?si=wt5k9yP9kjPY3ySO))
