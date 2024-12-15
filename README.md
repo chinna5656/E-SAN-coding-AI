@@ -11,7 +11,7 @@
 | 5     | BitNet: AI for Diagnosing Ultrasound Image    | **[EFFICIENTNET: IMAGE CLASSIFICATION](PMUB_Personal_AI_Image_classification_EfficientNetB5.ipynb)**          |
 | 6     | AI for Arresting Criminals                    | **[YOLO DETECTION / FACE RECOGNITION](https://github.com/chinna5656/E-SAN-coding-AI/blob/main/Yolo%20Detection.ipynb)**           |
 <a href="https://youtube.com/shorts/Z7Sfl7z_BWI?feature=share">
-  <img src="https://img.youtube.com/shorts/vi/Z7Sfl7z_BWI?feature=share/0.jpg" width="800" />
+  <img src="https://img.youtube.com/vi/Z7Sfl7z_BWI/0.jpg" width="800" />
 </a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7Sfl7z_BWI" title="YouTube Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
